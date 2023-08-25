@@ -1,0 +1,31 @@
+test_appointment_info:
+  - orderId: "1690979683703451649"
+
+test_appointment_start_info:
+  - connectorCode: "92711072"
+
+test_appointment_stop_info:
+  - orderId: "1690979683703451649"
+
+test_charge_free_info:
+  -
+    feePlanId: "1640609556974002177"
+  -
+    feePlanId: "1676195336538513410"
+
+test_charget_info:
+  - orderId: "1685840880932126722"
+
+test_charge_list_info:
+  - operator: "1455816799379255298"
+
+test_charge_statistics_info:
+  - operator: "1455816799379255298"
+
+test_qrcode_info:
+  - code: "83323880"
+
+test_station_info:
+  - stationId: "1648243796167286786"
+
+
